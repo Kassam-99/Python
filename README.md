@@ -1,2 +1,2 @@
 # Python
-Projects and Basics Codes
+Projects and Modules
